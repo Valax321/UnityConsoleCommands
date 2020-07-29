@@ -1,0 +1,8 @@
+{
+  "name": "com.valax321.consolecommands",
+  "displayName": "Console Commands",
+  "version": "1.0.0",
+  "unity": "2019.1",
+  "description": "This package adds support for console commands and variables to Unity. These are based off the command system seen in many other game engines such as the Source Engine.",
+  "type": "library"
+}

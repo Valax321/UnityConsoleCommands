@@ -1,0 +1,17 @@
+{
+    "name": "Valax321.ConsoleCommands.Editor",
+    "references": [
+        "AndrewCastillo.ConsoleCommands"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

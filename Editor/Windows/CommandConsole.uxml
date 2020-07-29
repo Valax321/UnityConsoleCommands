@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <uie:Toolbar style="flex-direction: row;">
+        <uie:ToolbarSearchField focusable="True" style="height: 100%;" />
+        <uie:ToolbarSpacer style="width: 15px; height: 16px;" />
+        <uie:ToolbarMenu text="Display" style="height: 100%;" />
+    </uie:Toolbar>
+    <ui:ListView focusable="True" style="height: 100%;" />
+    <ui:TextField picking-mode="Ignore" label="Command" value="command" name="CommandField" tooltip="Type commands in here." />
+</ui:UXML>
